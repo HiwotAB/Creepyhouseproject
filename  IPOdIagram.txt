@@ -1,0 +1,10 @@
+
+
+
+ Input                                                              Processing                                                   output
+Upstairs                                                  Recieve input                                  
+Kitchen                                                
+
+ 
+yes                                                        making decsion                         displaying the message
+no                                                       
